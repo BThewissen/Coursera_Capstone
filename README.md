@@ -2,7 +2,7 @@
 
 BUSINESS UNDERSTANDING
 
-Car accidents cause still too many deaths. 90 die every day in the U.S. from vehicle accidents. More than 6 million car accidents occur each year. According to the NHTSA, about 6% of all motor vehicle accidents in the United States result in at least one death. 3 million drivers suffer injuries and 2/3 of them have permanent injuries.
+Car accidents cause still too many deaths. 90 people die every day in the U.S. from vehicle accidents. More than 6 million car accidents occur each year. According to the NHTSA, about 6% of all motor vehicle accidents in the United States result in at least one death. 3 million drivers suffer injuries and 2/3 of them have permanent injuries.
 
 In order to reduce the number of car accidents and to save lives, car accident data and machine learning can be used to give drivers a better information about the risk to have a severe car accident in a certain area and under certain conditions like weather, road and visibility. Applications like Waze, Google Maps or Tom Tom GPS Navigation Traffic could usefully display this information to the drivers when crossing the area. 
 
